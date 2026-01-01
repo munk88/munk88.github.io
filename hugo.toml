@@ -1,5 +1,5 @@
-# GitHub Pages 地址
-baseURL = 'https://munk88.github.io/'
+# 自定义域名（通过 Cloudflare CDN）
+baseURL = 'https://blog.subo123.com/'
 languageCode = 'zh-cn'
 title = '我的博客'
 theme = 'paper'
