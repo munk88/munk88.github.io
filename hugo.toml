@@ -1,0 +1,16 @@
+# baseURL 需要更新为你的 GitHub Pages 地址
+# 格式: https://username.github.io/repo-name/
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '我的博客'
+theme = 'paper'
+
+[params]
+  # 配置颜色选项 (auto, light, dark)
+  color = 'auto'
+
+  # 首页标语
+  description = '欢迎来到我的个人博客'
+
+  # 显示文章目录
+  showToc = true
