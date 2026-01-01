@@ -1,6 +1,5 @@
-# baseURL 需要更新为你的 GitHub Pages 地址
-# 格式: https://username.github.io/repo-name/
-baseURL = 'https://example.org/'
+# GitHub Pages 地址
+baseURL = 'https://munk88.github.io/'
 languageCode = 'zh-cn'
 title = '我的博客'
 theme = 'paper'
